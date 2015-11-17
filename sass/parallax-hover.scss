@@ -1,0 +1,29 @@
+.wrap {
+      background: url(http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg) no-repeat 50% 20%,
+                  url(http://www.online-image-editor.com//styles/2014/images/example_image.png) no-repeat 80% 50%,
+                  url(http://img.gettyimageslatam.com/public/userfiles/redesign/images/landing/home/img_entry_002.jpg) no-repeat 50% 80%,
+                  url(http://www.thinkstockphotos.com/CMS/StaticContent/WhyThinkstockImages/Create_Designs.jpg) no-repeat 20% 50%,
+                  url(http://www.planwallpaper.com/static/images/cool-background.jpg);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.desc {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: 5px 5px black;
+  h2 {
+    font-size: 4.5em;
+  }
+
+  h4 {
+    font-size: 3em;
+  }
+}
